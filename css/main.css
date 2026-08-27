@@ -2,14 +2,11 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #404A65;
     font-family: "kanit";
     text-align: center;
     color: #ECEDF0;
-  };
+    background: #404A65;
 
-  body {
-    height: 100px;
   };
 
   .author-info {
@@ -25,8 +22,9 @@ html {
 
   .header {
     text-shadow: -3px -3px 0 #35383F, 3px -3px 0 #35383F, -3px 3px 0 #35383F, 3px 3px 0 #35383F;
-  }
+    font-size: 64px;
+  };
 
-  .random {
+ .random {
     background: #1F6FB0;
-  }
+  };
