@@ -83,4 +83,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 - Website [aeversportfolio.com](www.aeversportfolio.com})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@alissa-17](https://{github.com/alissa-17})
