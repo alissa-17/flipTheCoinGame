@@ -18,12 +18,12 @@ html {
 
   .author-info a {
     text-decoration: none;
-  };
+  }
 
   .header h1{
     text-shadow: -3px -3px 0 #35383F, 3px -3px 0 #35383F, -3px 3px 0 #35383F, 3px 3px 0 #35383F;
     font-size: 64px;
-  };
+  }
 
  .random {
     background: #1F6FB0;
