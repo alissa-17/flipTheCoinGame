@@ -25,6 +25,7 @@ html {
   -webkit-text-stroke-width: 5px;
   -webkit-text-stroke-color: #35383f;
   font-size: 64px;
+  margin: 0;
 }
 
 .subheader {
