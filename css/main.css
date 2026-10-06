@@ -1,30 +1,32 @@
 html {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "kanit";
-    text-align: center;
-    color: #ECEDF0;
-    background: #404A65;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "kanit";
+  text-align: center;
+  color: #ECEDF0;
+  background: #404A65;
 
-  }
+}
 
-  .author-info {
-    font-size: 14px;
-    text-align: center;
-    margin-top: 16px;
-    color: rgb(55, 65, 81);
-  }
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 16px;
+  color: rgb(55, 65, 81);
+}
 
-  .author-info a {
-    text-decoration: none;
-  }
+.author-info a {
+  text-decoration: none;
+}
 
-  .header {
-    text-shadow: -3px -3px 0 #35383F, 3px -3px 0 #35383F, -3px 3px 0 #35383F, 3px 3px 0 #35383F;
-    font-size: 64px;
-  }
+.header {
+  text-shadow: 2px 2px 0px #35383f;
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: #35383f;
+  font-size: 64px;
+}
 
- .random {
-    background: #1F6FB0;
-  }
+.random {
+  background: #1F6FB0;
+}
