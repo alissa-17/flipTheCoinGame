@@ -29,8 +29,12 @@ html {
 }
 
 .subheader {
-  font-weight: 600;
+  font-weight: 500;
   margin: 0;
+}
+
+h2 {
+
 }
 
 .random {
