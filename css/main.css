@@ -10,7 +10,7 @@ html {
 }
 
 .content-wrapper {
-  
+  display: flex;
 }
 
 .header {
