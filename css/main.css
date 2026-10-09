@@ -9,17 +9,6 @@ html {
 
 }
 
-.author-info {
-  font-size: 14px;
-  text-align: center;
-  margin-top: 16px;
-  color: rgb(55, 65, 81);
-}
-
-.author-info a {
-  text-decoration: none;
-}
-
 .header {
   text-shadow: 2px 2px 0px #35383f;
   -webkit-text-stroke-width: 5px;
@@ -46,4 +35,15 @@ h2 {
   padding: 8px 35px;
   box-shadow: 0px 4px 0px 0px #23649b;
   border-radius: 9px;
+}
+
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 16px;
+  color: rgb(55, 65, 81);
+}
+
+.author-info a {
+  text-decoration: none;
 }
